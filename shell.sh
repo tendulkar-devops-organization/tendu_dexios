@@ -1,2 +1,2 @@
 ''' hi '''
-echo "hi"
+echo "hi tendu"
